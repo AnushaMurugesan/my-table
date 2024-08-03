@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John Doe",
+    "age": 28,
+    "dateOfBirth": "1995-01-15",
+    "email": "john.doe@example.com"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 34,
+    "dateOfBirth": "1989-06-23",
+    "email": "jane.smith@example.com"
+  },
+  {
+    "name": "Alice Johnson",
+    "age": 22,
+    "dateOfBirth": "2001-03-12",
+    "email": "alice.johnson@example.com"
+  },
+  {
+    "name": "Bob Brown",
+    "age": 45,
+    "dateOfBirth": "1978-11-02",
+    "email": "bob.brown@example.com"
+  },
+  {
+    "name": "Carol White",
+    "age": 29,
+    "dateOfBirth": "1994-08-19",
+    "email": "carol.white@example.com"
+  },
+  {
+    "name": "David Wilson",
+    "age": 38,
+    "dateOfBirth": "1985-05-10",
+    "email": "david.wilson@example.com"
+  },
+  {
+    "name": "Eve Adams",
+    "age": 26,
+    "dateOfBirth": "1997-02-28",
+    "email": "eve.adams@example.com"
+  },
+  {
+    "name": "Frank Miller",
+    "age": 40,
+    "dateOfBirth": "1983-07-14",
+    "email": "frank.miller@example.com"
+  },
+  {
+    "name": "Grace Lee",
+    "age": 31,
+    "dateOfBirth": "1992-10-05",
+    "email": "grace.lee@example.com"
+  },
+  {
+    "name": "Hank Thompson",
+    "age": 50,
+    "dateOfBirth": "1973-12-21",
+    "email": "hank.thompson@example.com"
+  }
+]
